@@ -6,11 +6,6 @@ import org.slf4j.LoggerFactory;
 import org.springframework.jms.annotation.JmsListener;
 import org.springframework.stereotype.Component;
 
-/**
- *
- * @author AJ Catambay of Bridging Code
- *
- */
 @Component
 public class MessageConsumer {
 

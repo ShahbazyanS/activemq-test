@@ -7,11 +7,6 @@ import org.springframework.jms.config.DefaultJmsListenerContainerFactory;
 
 import javax.jms.ConnectionFactory;
 
-/**
- *
- * @author AJ Catambay of Bridging Code
- *
- */
 @Configuration
 @EnableJms
 public class JmsConfig {

@@ -2,14 +2,7 @@ package com.example.activemqtest.model;
 
 import java.io.Serializable;
 
-/**
- *
- * @author AJ Catambay of Bridging Code
- *
- */
 public class User implements Serializable {
-
-    private static final long serialVersionUID = 1L;
 
     private String name;
     private String surname;
